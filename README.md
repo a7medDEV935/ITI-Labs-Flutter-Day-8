@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 02 57 29" src="https://github.com/user-attachments/assets/958cddab-52c9-474b-b5e3-85a8c96631b1" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 02 57 54" src="https://github.com/user-attachments/assets/1de17f16-65c2-42c8-aab6-9bbd576b7847" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 03 08 35" src="https://github.com/user-attachments/assets/4a700e41-48e9-45d0-84bc-1fd4149f6bd9" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 02 57 36" src="https://github.com/user-attachments/assets/97a76ff2-4af5-4154-8ece-fbf41b17d3cb" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 05 42 14" src="https://github.com/user-attachments/assets/ddc2c621-0279-4502-8413-e21789e95c7e" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 03 13 18" src="https://github.com/user-attachments/assets/7ca522bc-1afd-45e6-b0a9-2002ab179b3c" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 02 59 25" src="https://github.com/user-attachments/assets/7974dda3-5e16-41a0-a0f9-701a7fb5ac38" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-22 at 02 58 29" src="https://github.com/user-attachments/assets/385de204-616a-4812-b6d2-e44999cf353e" />
